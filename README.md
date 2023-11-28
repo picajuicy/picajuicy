@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I am Abhishek Magar 👋
+💻 *I am interested in FullStack Development*   
+🕸 *Find me 👉(https://www.linkedin.com/in/abhishek-magar-8b43a817b/) 🕸 
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-<!--
-**picajuicy/picajuicy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✔ Ask me anything you want, If I am alive I will answer for sure 😉<br>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=picajuicy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Pica's Github Stats">
+</p>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=picajuicy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="picajuicy" />  
+</p>      
+  
+<p align='center'>  
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=picajuicy&theme=juicyfresh&no-bg=true" alt="picajucy" />  
+
+</p>
