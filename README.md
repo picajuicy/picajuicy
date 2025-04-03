@@ -26,11 +26,6 @@
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=picajuicy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="picajuicy" />  
 </p>  
-
-### Real-time Activity
-- **Total Commits:** ![Total Commits](https://github-readme-stats.vercel.app/api?username=picajuicy&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=radical&custom_title=Commits)
-- **Total Pull Requests:** ![Pull Requests](https://img.shields.io/github/issues-pr/picajuicy?style=plastic)
-- **Total Repositories:** ![Repos](https://img.shields.io/github/forks/picajuicy?style=plastic)
   
 <p align='center'>  
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=picajuicy&theme=juicyfresh&no-bg=true" alt="picajuicy" />  
