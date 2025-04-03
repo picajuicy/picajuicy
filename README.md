@@ -26,9 +26,9 @@
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=picajuicy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="picajuicy" />  
 </p>      
-  
+
 <p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=picajuicy&theme=juicyfresh&no-bg=true" alt="picajucy" />  
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=picajuicy&theme=juicyfresh&no-bg=true" alt="picajuicy" />  
 </p>
 
 ---
